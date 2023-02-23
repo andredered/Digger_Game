@@ -1,0 +1,53 @@
+﻿  stdafx.cpp
+  Armor.cpp
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Armor.cpp(10,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Armor.cpp(10,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Armor.cpp(18,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Armor.cpp(21,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Armor.cpp(31,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Armor.cpp(34,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Armor.cpp(190,13): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Armor.cpp(191,13): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Armor.cpp(202,13): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Armor.cpp(203,14): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  Boots.cpp
+  Cuirass.cpp
+  Digger.cpp
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Digger.cpp(544,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Digger.cpp(544,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Digger.cpp(550,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Digger.cpp(553,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Digger.cpp(563,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Digger.cpp(566,24): warning C4018: <: несоответствие типов со знаком и без знака
+  Digger_Game.cpp
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Digger_Game.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Digger_Game.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Field.cpp
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Field.cpp(13,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Field.cpp(13,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  Gloves.cpp
+  Helmet.cpp
+  Hero.cpp
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Hero.cpp(8,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Hero.cpp(8,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  Monster.cpp
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Monster.cpp(7,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Monster.cpp(7,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  OneHandleWeapon.cpp
+  Pants.cpp
+  Pfrases.cpp
+  Shield.cpp
+  TwoHandleWeapon.cpp
+  Weapon.cpp
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Weapon.cpp(11,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Weapon.cpp(11,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Weapon.cpp(19,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Weapon.cpp(22,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Weapon.cpp(32,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Weapon.cpp(35,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Weapon.cpp(188,13): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Weapon.cpp(198,13): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Weapon.cpp(160): warning C4715: Weapon::ShowItem: значение возвращается не при всех путях выполнения
+C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Digger_Game\Armor.cpp(155): warning C4715: Armor::ShowItem: значение возвращается не при всех путях выполнения
+  Digger_Game.vcxproj -> C:\Users\andre\OneDrive\Рабочий стол\Digger_Game\Debug\Digger_Game.exe
